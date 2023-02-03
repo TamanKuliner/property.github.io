@@ -11,3 +11,7 @@ https://tamankuliner.github.io/property.github.io/
 
 https://www.youtube.com/watch?v=y47gYvXchXM&t=16s
 
+
+## Start with :
+
+npx create-next-app@latest ./
