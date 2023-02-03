@@ -15,3 +15,8 @@ https://www.youtube.com/watch?v=y47gYvXchXM&t=16s
 ## Start with :
 
 npx create-next-app@latest ./
+
+
+## instalation :
+
+https://beta.nextjs.org/docs/installation
